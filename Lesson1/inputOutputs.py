@@ -13,3 +13,5 @@ print(name)
 #print() name, prints Sara onto the screen
 name = input("Enter your name")
 print(name)
+
+#Lesson 1 done
